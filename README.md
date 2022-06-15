@@ -8,6 +8,10 @@
 
 ### Le phising se situe dans le bouton se désabonner, qui redirige vers un site internet que nous avons crée.
 
+#### Lien du site internet : logistilink.xyz
+
+#### Lien du github de l'application : https://github.com/Guillaume-Jouffrault/unsubscribe
+
 ### Pour chaque personne cliquant sur le bouton "se désabonner" depuis son mail, nous récupérons son ip, sa localisation et son mail sur la base de données firebase.
 
 ### Si la personne rentre ses logs, ceux-ci sont aussi stockées sur la bdd.
